@@ -4,6 +4,6 @@ puts "What is your name?"
 name = gets 
 name = gets.chomped 
 
-puts "Dear " + 
+puts "Dear " + name + ","
 
 # Try starting out with puts'ing a string.
