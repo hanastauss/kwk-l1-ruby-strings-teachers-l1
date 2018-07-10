@@ -24,4 +24,4 @@ host_name = host_name.chomp
 
 puts "Dear " + name + "," 
 
-puts "You are "
+puts "You are cordially invited to the " + party_name + "Party on " + date + "at" 6pm. Please RSVP no later than October 30.
