@@ -1,7 +1,7 @@
 # Code your prompts here!
 
 puts "What is your name?"
-guest_name = gets 
+guest_name = gets
 guest_name = guest_name.chomp
 
 puts "What is the name of your party?"
