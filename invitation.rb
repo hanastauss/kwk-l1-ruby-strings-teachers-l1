@@ -1,6 +1,8 @@
 # Code your prompts here!
 
 puts "What is your name?"
+name = gets 
+name = gets.chomped 
 
 
 
