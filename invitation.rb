@@ -20,6 +20,8 @@ puts "What is the name of the host?"
 host_name = gets 
 host_name = host_name.chomp 
 
-puts "Dear " + name + ","
-
 # Try starting out with puts'ing a string.
+
+puts "Dear " + name + "," 
+
+puts "You are "
