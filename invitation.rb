@@ -2,7 +2,7 @@
 
 puts "What is your name?"
 name = gets 
-name = gets.chomped 
+name = name.chomp
 
 puts "Dear " + name + ","
 
